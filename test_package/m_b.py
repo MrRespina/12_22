@@ -1,0 +1,1 @@
+valiable_b = 'B 모듈의 변수'
